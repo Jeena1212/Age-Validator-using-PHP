@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(238, 237, 210);
+}
+.heading{
+    text-align: center;
+}
+.check{
+    background-color: rgb(177, 159, 194);
+    margin: 100px;
+}
+.check form{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+}
+.check form table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+form tr{
+    padding: 10px;
+}
+#sub input{
+    margin: 5px;
+    color: green;
+    border-radius: 10px;
+}
